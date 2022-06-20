@@ -1,25 +1,39 @@
 # Define the project
 
----> Define WHO the website is for
+## Define WHO the website is for
 
 - For a client
 
----> Define What the website is for
+## Define What the website is for
 
 - business goal: Selling monthly food subscription
 - user goal: Eating well effortlessly, without spending a lot of time and money
 
----> Define target audience
+## Define target audience
 
 - busy people who like technology, are interested in a healthy diet, and have a well-paying job
 
----> Define website personality
+## Define website personality
 
 - Based on the tech-centered target audience, as well as the actual product being sold, we will use the startup/upbeat personalily. We might add some elements of the calm/peaceful personalily, since the product is all about consumer well-being as well.
 
 ---
 
-# Omnifood
+## Sections:
+
+- Logo + Navigation
+- Hero
+- Featured in
+- How it works
+- Meals (and list of diets)
+- Testimonials + Gallery
+- Pricing + Features
+- CTA
+- Footer
+
+---
+
+# Omnifood content:
 
 ## About Omnifood
 
