@@ -1,3 +1,20 @@
+# Define the project
+
+---> Define WHO the website is for
+
+- For a client
+
+---> Define What the website is for
+
+- business goal: Selling monthly food subscription
+- user goal: Eating well effortlessly, without spending a lot of time and money
+
+---> Define target audience
+
+- busy people who like technology, are interested in a healthy diet, and have a well-paying job
+
+---
+
 # Omnifood
 
 ## About Omnifood
