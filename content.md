@@ -13,6 +13,10 @@
 
 - busy people who like technology, are interested in a healthy diet, and have a well-paying job
 
+---> Define website personality
+
+- Based on the tech-centered target audience, as well as the actual product being sold, we will use the startup/upbeat personalily. We might add some elements of the calm/peaceful personalily, since the product is all about consumer well-being as well.
+
 ---
 
 # Omnifood
