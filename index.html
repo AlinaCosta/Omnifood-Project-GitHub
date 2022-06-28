@@ -572,23 +572,31 @@
                   the first meal is on us!
                 </p>
               </header>
-              <form action="#" class="cta-form">
+              <!-- the form can work if you deploy it to netlify -->
+              <form class="cta-form" name="sign-up" netlify>
                 <div>
                   <label for="full-name">Full Name</label>
                   <input
                     id="full-name"
                     type="text"
                     placeholder="Name"
+                    name="full-name"
                     required
                   />
                 </div>
                 <div>
                   <label for="email">Email Address</label>
-                  <input id="email" type="email" placeholder="Email" required />
+                  <input
+                    id="email"
+                    type="email"
+                    placeholder="Email"
+                    name="email"
+                    required
+                  />
                 </div>
                 <div>
                   <label for="select-where">Where did you hear from us?</label>
-                  <select id="select-where" required>
+                  <select id="select-where" name="select-where" required>
                     <option value="friends" default>Friends and family</option>
                     <option value="youtube">Youtube video</option>
                     <option value="ad">Facebook Ad</option>
