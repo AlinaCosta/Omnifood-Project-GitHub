@@ -75,6 +75,12 @@ html {
   /* Percentage of user's browser font-size settings */
   font-size: 62.5%;
   overflow-x: hidden;
+  /* set scroll behavior to smooth for navigation */
+  /* works on Google Chrome and Firefox */
+  scroll-behavior: smooth;
+  /* set scroll behavior to smooth for navigation */
+  /* works on Google Chrome, Firefox, Microsoft Edge */
+  scroll-behavior: smooth;
 }
 body {
   /* "Rubik" for rounded corners */
